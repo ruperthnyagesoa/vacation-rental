@@ -10,6 +10,15 @@ Welcome to Vacation-Rental aka BnB, the pinnacle of stays, where i put a retro t
 - Applied useEffect & useState functionality for fetching the backend data       
 - Created the site structure to update based on mobile vs desktop viewing experience
 
+**Backend**
+For the backend:
+- Involved Ruby, Sinatra & sql to create the stay, review, and user data structures and routes  
+- Tested the fetches as needed with binding.pry or Postman to ensure back-end worked appropriately 
+
+
+**Deploy**
+To deploy i chose to use Vercel for my front end and Heroku for my backend. I updated my build, fetches, functionality, etc. to ensure a smooth user experience.
+
 ## Demo
 
 [Link](https://vacation-rental-bnb.vercel.app/)
