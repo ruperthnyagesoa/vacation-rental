@@ -1,7 +1,7 @@
 # Vacation-Rental
 
 **Intro**
-Welcome to Vacation-Rental aka BnB, the pinnacle of stays, where i put a retro twist on the vacation rental model.I had a lot of fun implementing the functionality and styling to give it more of a vintage/1990s/earlier days of internet twist. Hope you all like it as well!  
+Welcome to Vacation-Rental aka Air BnB, the pinnacle of stays, where i put a vintage twist on the vacation rental model.I had a lot of fun implementing the functionality and styling to give it more of a vintage/1990s/earlier days of internet twist. Hope you all like it as well!  
 
 **Frontend**
 - I implemented the following features:
