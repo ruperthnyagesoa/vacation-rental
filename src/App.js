@@ -86,10 +86,10 @@ function App() {
                  {/* </div> */}
               </div>
               <div className="find">
-                Find us on LinkedIn: 
+                Find me on LinkedIn: 
                 <li className="social-btn flex-center" id="linkedin">
-                    <a href="https://www.linkedin.com/in/ruperth-nyagesoa/" target="_blank" rel="noreferrer">Example Link
-                    </a>
+                <a href="https://www.linkedin.com/in/ruperth-nyagesoa/" target="_blank" rel="noreferrer">
+                </a>
                     <span>Ruperth Nyagesoa</span>
                 </li>
               </div>
