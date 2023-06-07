@@ -79,7 +79,7 @@ function App() {
           <div className="footer">
               
               <div className="our-logo">
-              <AiOutlineCopyrightCircle size=".75em"/> 2023 Retro BnB, Inc. All rights reserved.
+              <AiOutlineCopyrightCircle size=".75em"/> 2023 Nostalgic BnB, Inc. All rights reserved.
                   {/* <div className="second-one"> */}
                   {/* <h3> <GiMountains /> <GiMountains /> <GiMountains /> </h3> */}
                  {/* <AiOutlineTrademarkCircle size=".75em"/> */}
