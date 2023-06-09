@@ -14,7 +14,7 @@ Welcome to Vacation-Rental aka Air BnB, the pinnacle of stays, where i put a vin
 For the backend:
 - Involved Ruby, Sinatra & sql to create the stay, review, and user data structures and routes  
 - Tested the fetches as needed with binding.pry or Postman to ensure back-end worked appropriately 
-
+[link](https://github.com/ruperthnyagesoa/vacation-rental-backend)
 
 **Deploy**
 To deploy i chose to use Vercel for my front end and Heroku for my backend. I updated my build, fetches, functionality, etc. to ensure a smooth user experience.
