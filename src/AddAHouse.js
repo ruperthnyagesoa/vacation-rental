@@ -41,7 +41,7 @@ function AddAHouse({ handleAddHouse}) {
             })
         } else {
             
-        fetch('https://hotelproject-backend.herokuapp.com/houses', {
+        fetch('https://vacation-rental-backend.netlify.app/houses', {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
