@@ -41,7 +41,7 @@ function AddAReview({ handleAddReview, houses, users }) {
         //     })
         } else {
             
-        fetch('https://hotelproject-backend.herokuapp.com/reviews', {
+        fetch('https://vacation-rental-backend.netlify.app/reviews', {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
